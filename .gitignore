@@ -1,2 +1,4 @@
 vendor/
 .env
+oci_cache.json
+run-loop.ps1
